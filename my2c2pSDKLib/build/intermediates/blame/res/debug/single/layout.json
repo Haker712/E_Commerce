@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/debug/layout/row_my2c2p_payment_counter_agent_options.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/src/main/res/layout/row_my2c2p_payment_counter_agent_options.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/debug/layout/activity_my2c2p_otp.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/src/main/res/layout/activity_my2c2p_otp.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/debug/layout/fragment_my2c2p_payment_cc.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/src/main/res/layout/fragment_my2c2p_payment_cc.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/debug/layout/layout_my2c2p_payment_installment_option_droplist.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/src/main/res/layout/layout_my2c2p_payment_installment_option_droplist.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/debug/layout/layout_my2c2p_payment_top_bar.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/src/main/res/layout/layout_my2c2p_payment_top_bar.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/debug/layout/layout_my2c2p_payment_cc_card_details.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/src/main/res/layout/layout_my2c2p_payment_cc_card_details.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/debug/layout/fragment_my2c2p_payment_type.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/src/main/res/layout/fragment_my2c2p_payment_type.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/debug/layout/fragment_my2c2p_payment_bank.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/src/main/res/layout/fragment_my2c2p_payment_bank.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/debug/layout/layout_my2c2p_top.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/src/main/res/layout/layout_my2c2p_top.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/debug/layout/fragment_my2c2p_payment_installment.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/src/main/res/layout/fragment_my2c2p_payment_installment.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/debug/layout/layout_my2c2p_payment_installment_store_card.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/src/main/res/layout/layout_my2c2p_payment_installment_store_card.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/debug/layout/layout_my2c2p_payment_cc_store_card.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/src/main/res/layout/layout_my2c2p_payment_cc_store_card.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/debug/layout/row_my2c2p_payment_installment_bank_options.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/src/main/res/layout/row_my2c2p_payment_installment_bank_options.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/debug/layout/activity_my2c2p_3ds_payment_ui.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/src/main/res/layout/activity_my2c2p_3ds_payment_ui.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/debug/layout/layout_my2c2p_payment_method.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/src/main/res/layout/layout_my2c2p_payment_method.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/debug/layout/dialog_my2c2p_cvv.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/src/main/res/layout/dialog_my2c2p_cvv.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/debug/layout/fragment_my2c2p_payment_counter.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/src/main/res/layout/fragment_my2c2p_payment_counter.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/debug/layout/row_my2c2p_country.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/src/main/res/layout/row_my2c2p_country.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/debug/layout/fragment_my2c2p_payment_payment_channel.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/src/main/res/layout/fragment_my2c2p_payment_payment_channel.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/debug/layout/row_my2c2p_payment_type.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/src/main/res/layout/row_my2c2p_payment_type.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/debug/layout/row_my2c2p_payment_installment_option.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/src/main/res/layout/row_my2c2p_payment_installment_option.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/debug/layout/layout_my2c2p_payment_installment_card_details.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/src/main/res/layout/layout_my2c2p_payment_installment_card_details.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/debug/layout/activity_my2c2p_3ds_payment_non_ui.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/src/main/res/layout/activity_my2c2p_3ds_payment_non_ui.xml"
+    }
+]

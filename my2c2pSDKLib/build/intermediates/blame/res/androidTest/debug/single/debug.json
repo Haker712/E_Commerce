@@ -1,0 +1,1486 @@
+[
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_yu.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/yu.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_io.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/io.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_icon_payment_credit_card.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/icon_payment_credit_card.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_mt.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/mt.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_rw.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/rw.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_icon_payment_mpu.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/icon_payment_mpu.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ae.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ae.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_as.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/as.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_mf.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/mf.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_nr.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nr.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_tr.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/tr.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_jm.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/jm.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_icon_payment_master_pass_compat.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/icon_payment_master_pass_compat.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ge.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ge.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/layout_layout_my2c2p_payment_top_bar.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/layout/layout_my2c2p_payment_top_bar.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_pm.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/pm.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_nc.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nc.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_co.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/co.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_icon_payment_123.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-mdpi-v4/icon_payment_123.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_logo.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/logo.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_bb.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/bb.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_st.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/st.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_icon_payment_alipay.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/icon_payment_alipay.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_hr.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/hr.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_gt.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/gt.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_td.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/td.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ky.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ky.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_tc.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/tc.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ad.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ad.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/layout_activity_my2c2p_otp.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/layout/activity_my2c2p_otp.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_dm.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/dm.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_gf.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/gf.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_zr.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/zr.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ar.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ar.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ca.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ca.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_icon_payment_next_arrow.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/icon_payment_next_arrow.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_fi.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/fi.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_question_mark.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_question_mark.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_pl.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/pl.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_br.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/br.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ba.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ba.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_cn.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/cn.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_gs.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/gs.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_icon_payment_alipay_compat.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/icon_payment_alipay_compat.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_sg.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/sg.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/layout_layout_my2c2p_payment_installment_option_droplist.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/layout/layout_my2c2p_payment_installment_option_droplist.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_icon_payment_mpu.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-mdpi-v4/icon_payment_mpu.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_np.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/np.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_tt.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/tt.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ac.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ac.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_gg.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/gg.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ye.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ye.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_gr.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/gr.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/anim_slide_in_left.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/anim/slide_in_left.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/layout_activity_my2c2p_3ds_payment_ui.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/layout/activity_my2c2p_3ds_payment_ui.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_bo.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/bo.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/anim_slide_in_right.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_va.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/va.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_mv.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/mv.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_icon_payment_next_arrow.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/icon_payment_next_arrow.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_pk.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/pk.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/anim_slide_in_up.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/anim/slide_in_up.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_tf.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/tf.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/layout_row_my2c2p_country.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/layout/row_my2c2p_country.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/layout_fragment_my2c2p_payment_payment_channel.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/layout/fragment_my2c2p_payment_payment_channel.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_fj.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/fj.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ms.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ms.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_fx.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/fx.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_icon_payment_master_pass.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-mdpi-v4/icon_payment_master_pass.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_icon_payment_123.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/icon_payment_123.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_sr.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/sr.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_kh.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/kh.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_payment_type_arrow.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/payment_type_arrow.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ne.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ne.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_pn.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/pn.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_km.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/km.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_si.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/si.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/anim_push_down_in.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/anim/push_down_in.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_textfield_selected.9.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/textfield_selected.9.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_af.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/af.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ly.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ly.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_cl.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/cl.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_dz.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/dz.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_me.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/me.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_mh.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/mh.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_gu.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/gu.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_bt.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/bt.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_gd.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/gd.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_icon_payment_alipay.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/icon_payment_alipay.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_aq.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/aq.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/layout_fragment_my2c2p_payment_cc.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/layout/fragment_my2c2p_payment_cc.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_im.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/im.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_icon_payment_upop.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/icon_payment_upop.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_cz.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/cz.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_jp.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/jp.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_at.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/at.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_to.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/to.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_bf.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/bf.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21_icon_payment_alipay.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-anydpi-v21/icon_payment_alipay.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ua.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ua.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_lv.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/lv.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/layout_layout_my2c2p_payment_cc_store_card.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/layout/layout_my2c2p_payment_cc_store_card.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_icon_payment_upop.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/icon_payment_upop.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_kn.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/kn.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ng.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ng.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_vc.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/vc.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4_icon_payment_alipay.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-ldpi-v4/icon_payment_alipay.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/raw_font_myanmar_thai_smartzg.ttf.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/raw/font_myanmar_thai_smartzg.ttf"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_icon_payment_master_pass.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/icon_payment_master_pass.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_aw.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/aw.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/anim_push_up_in.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/anim/push_up_in.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_cr.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/cr.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_rs.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/rs.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ls.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ls.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_btn_dropdown_selected.9.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/btn_dropdown_selected.9.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_sj.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/sj.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4_icon_payment_master_pass.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-ldpi-v4/icon_payment_master_pass.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_is.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/is.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_btn_dropdown_disabled_focused.9.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/btn_dropdown_disabled_focused.9.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_cy.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/cy.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_id.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/id.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/layout_row_my2c2p_payment_installment_option.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/layout/row_my2c2p_payment_installment_option.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_lk.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/lk.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/layout_layout_my2c2p_payment_installment_store_card.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/layout/layout_my2c2p_payment_installment_store_card.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_cc.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/cc.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/layout_row_my2c2p_payment_type.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/layout/row_my2c2p_payment_type.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_mc.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/mc.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21_icon_payment_master_pass.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-anydpi-v21/icon_payment_master_pass.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_nf.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nf.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable_edit_text.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable/edit_text.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_tn.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/tn.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_eg.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/eg.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_py.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/py.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21_icon_payment_123.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-anydpi-v21/icon_payment_123.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_icon_payment_mpu.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/icon_payment_mpu.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_mp.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/mp.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/anim_slide_out_left.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_tg.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/tg.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_cx.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/cx.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_dj.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/dj.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_sd.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/sd.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/layout_row_my2c2p_payment_installment_bank_options.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/layout/row_my2c2p_payment_installment_bank_options.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_gb.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/gb.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_vi.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/vi.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_gi.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/gi.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_et.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/et.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_md.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/md.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/raw_font_myanmar_thai_samsung.ttf.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/raw/font_myanmar_thai_samsung.ttf"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_gy.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/gy.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_wf.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/wf.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_es.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/es.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/anim_slide_in_micro.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/anim/slide_in_micro.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4_icon_payment_mpu.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-ldpi-v4/icon_payment_mpu.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_icon_payment_upop.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-mdpi-v4/icon_payment_upop.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_cm.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/cm.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_bd.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/bd.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ag.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ag.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_tm.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/tm.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ps.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ps.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_icon_payment_123.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/icon_payment_123.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_pa.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/pa.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_pr.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/pr.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_dk.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/dk.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/layout_fragment_my2c2p_payment_installment.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/layout/fragment_my2c2p_payment_installment.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_sk.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/sk.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_mz.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/mz.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_bv.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/bv.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_nl.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nl.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_be.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/be.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_icon_payment_mpu_compat.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/icon_payment_mpu_compat.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/layout_fragment_my2c2p_payment_type.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/layout/fragment_my2c2p_payment_type.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_in.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/in.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_mu.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/mu.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_gh.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/gh.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_am.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/am.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_icon_payment_upop_compat.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/icon_payment_upop_compat.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_textfield_disabled.9.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/textfield_disabled.9.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_lr.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/lr.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_na.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/na.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ax.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ax.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_pg.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/pg.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_se.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/se.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_textfield_default.9.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/textfield_default.9.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ki.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ki.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_it.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/it.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_th.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/th.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_sv.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/sv.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_kz.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/kz.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21_icon_payment_mpu.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-anydpi-v21/icon_payment_mpu.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_mo.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/mo.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_vn.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/vn.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_fk.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/fk.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_separator.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/separator.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_eh.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/eh.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_gn.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/gn.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_pf.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/pf.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_icon_payment_master_pass.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/icon_payment_master_pass.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_mm.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/mm.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_de.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/de.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_tk.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/tk.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_la.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/la.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_cv.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/cv.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_bj.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/bj.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_fo.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/fo.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_icon_payment_123.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/icon_payment_123.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_al.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/al.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_icon_payment_123.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/icon_payment_123.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/layout_layout_my2c2p_top.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/layout/layout_my2c2p_top.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/anim_push_up_out.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/anim/push_up_out.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ch.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ch.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4_icon_payment_123.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-ldpi-v4/icon_payment_123.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_gm.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/gm.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_kr.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/kr.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_icon_payment_next_arrow.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/icon_payment_next_arrow.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_icon_payment_master_pass.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/icon_payment_master_pass.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_icon_payment_next_arrow_compat.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/icon_payment_next_arrow_compat.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ro.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ro.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_tz.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/tz.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_je.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/je.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_hk.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/hk.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_sm.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/sm.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_az.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/az.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_by.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/by.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_nz.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nz.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/anim_slide_out_down.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/anim/slide_out_down.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/layout_layout_my2c2p_payment_cc_card_details.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/layout/layout_my2c2p_payment_cc_card_details.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_icon_payment_credit_card.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-mdpi-v4/icon_payment_credit_card.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_do_.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/do_.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_icon_payment_123_compat.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/icon_payment_123_compat.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_cg.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/cg.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable_selector_lv.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable/selector_lv.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_gl.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/gl.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ws.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ws.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_sn.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/sn.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_icon_payment_upop.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/icon_payment_upop.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ec.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ec.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_cu.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/cu.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_pe.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/pe.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21_icon_payment_next_arrow.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-anydpi-v21/icon_payment_next_arrow.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/anim_slide_out_right.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_tj.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/tj.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_icon_payment_next_arrow.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-mdpi-v4/icon_payment_next_arrow.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_fm.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/fm.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ke.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ke.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21_icon_payment_upop.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-anydpi-v21/icon_payment_upop.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_sz.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/sz.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_kp.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/kp.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ph.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ph.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_so.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/so.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_mk.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/mk.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_cf.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/cf.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_bz.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/bz.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_zm.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/zm.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_an.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/an.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_mn.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/mn.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/layout_fragment_my2c2p_payment_counter.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/layout/fragment_my2c2p_payment_counter.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_sa.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/sa.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/anim_push_down_in_no_alpha.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/anim/push_down_in_no_alpha.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ug.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ug.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_er.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/er.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_icon_payment_alipay.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/icon_payment_alipay.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_tl.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/tl.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_hm.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/hm.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_pw.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/pw.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_lb.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/lb.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_cardback.jpg.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/cardback.jpg"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ga.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ga.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_vg.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/vg.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_bi.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/bi.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_my.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/my.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_fr.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/fr.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_sl.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/sl.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_pt.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/pt.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/layout_fragment_my2c2p_payment_bank.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/layout/fragment_my2c2p_payment_bank.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable_btn_grey.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable/btn_grey.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_vu.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/vu.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/layout_layout_my2c2p_payment_method.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/layout/layout_my2c2p_payment_method.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_bw.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/bw.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ci.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ci.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ck.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ck.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable_border_bottom.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable/border_bottom.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_re.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/re.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/layout_layout_my2c2p_payment_installment_card_details.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/layout/layout_my2c2p_payment_installment_card_details.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_icon_payment_credit_card_compat.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/icon_payment_credit_card_compat.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_gp.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/gp.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_question_mark_tinted.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_question_mark_tinted.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_hu.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/hu.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_za.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/za.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_gw.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/gw.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/anim_slide_out_micro.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/anim/slide_out_micro.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4_icon_payment_credit_card.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-ldpi-v4/icon_payment_credit_card.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_hn.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/hn.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/layout_row_my2c2p_payment_counter_agent_options.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/layout/row_my2c2p_payment_counter_agent_options.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_us.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/us.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_mq.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/mq.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_il.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/il.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_sc.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/sc.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_mx.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/mx.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ai.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ai.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4_icon_payment_next_arrow.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-ldpi-v4/icon_payment_next_arrow.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_icon_payment_credit_card.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/icon_payment_credit_card.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/raw_my2c2p.dat.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/raw/my2c2p.dat"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_qa.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/qa.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4_icon_payment_upop.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-ldpi-v4/icon_payment_upop.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_bg.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/bg.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_mw.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/mw.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_icon_payment_master_pass.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/icon_payment_master_pass.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ie.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ie.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_tw.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/tw.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_lt.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/lt.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_bn.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/bn.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_uz.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/uz.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/layout_activity_my2c2p_3ds_payment_non_ui.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/layout/activity_my2c2p_3ds_payment_non_ui.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ir.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ir.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_kg.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/kg.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_um.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/um.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_cd.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/cd.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_btn_dropdown_normal.9.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/btn_dropdown_normal.9.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/anim_push_down_out.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/anim/push_down_out.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ru.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ru.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ao.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ao.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable_btn_dropdown.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable/btn_dropdown.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_icon_payment_credit_card.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/icon_payment_credit_card.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_au.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/au.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_sh.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/sh.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_icon_payment_upop.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/icon_payment_upop.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_kw.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/kw.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_uy.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/uy.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_bh.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/bh.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ni.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ni.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_icon_payment_mpu.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/icon_payment_mpu.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_xk.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/xk.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_lc.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/lc.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_iq.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/iq.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable_my2c2psdk_nav_btn.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable/my2c2psdk_nav_btn.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_icon_payment_next_arrow.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/icon_payment_next_arrow.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_tp.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/tp.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_mg.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/mg.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ve.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ve.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_lu.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/lu.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_jo.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/jo.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_bs.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/bs.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_cardfront.jpg.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/cardfront.jpg"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_om.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/om.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_btn_dropdown_disabled.9.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/btn_dropdown_disabled.9.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_btn_dropdown_pressed.9.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/btn_dropdown_pressed.9.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_icon_payment_alipay.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-mdpi-v4/icon_payment_alipay.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_icon_payment_mpu.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/icon_payment_mpu.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable_info_selector.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable/info_selector.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_li.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/li.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21_icon_payment_credit_card.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-anydpi-v21/icon_payment_credit_card.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ht.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ht.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_sy.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/sy.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_line_seperator.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/line_seperator.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_no.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/no.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ml.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ml.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/layout_dialog_my2c2p_cvv.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/layout/dialog_my2c2p_cvv.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_icon_payment_credit_card.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/icon_payment_credit_card.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_yt.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/yt.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_zw.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/zw.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_gq.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/gq.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/anim_push_down_out_no_alpha.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/anim/push_down_out_no_alpha.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_icon_payment_alipay.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/icon_payment_alipay.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ee.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ee.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_nu.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nu.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable_my3dsdk_nav_bar.xml.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable/my3dsdk_nav_bar.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_mr.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/mr.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_bm.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/bm.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ma.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ma.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_sb.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/sb.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_tv.png.flat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/tv.png"
+    }
+]

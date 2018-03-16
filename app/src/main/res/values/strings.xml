@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">E_Commerce</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+
+    <string name="name1">.</string>
+    <string name="name2">.</string>
+    <string name="name3">.</string>
+</resources>

@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/release/anim/slide_in_micro.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/src/main/res/anim/slide_in_micro.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/release/anim/push_up_in.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/src/main/res/anim/push_up_in.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/release/anim/push_down_out_no_alpha.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/src/main/res/anim/push_down_out_no_alpha.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/release/anim/slide_out_left.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/src/main/res/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/release/anim/slide_in_left.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/src/main/res/anim/slide_in_left.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/release/anim/push_up_out.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/src/main/res/anim/push_up_out.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/release/anim/slide_out_right.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/src/main/res/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/release/anim/push_down_in_no_alpha.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/src/main/res/anim/push_down_in_no_alpha.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/release/anim/slide_in_right.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/src/main/res/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/release/anim/slide_out_down.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/src/main/res/anim/slide_out_down.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/release/anim/push_down_in.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/src/main/res/anim/push_down_in.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/release/anim/push_down_out.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/src/main/res/anim/push_down_out.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/release/anim/slide_in_up.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/src/main/res/anim/slide_in_up.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/release/anim/slide_out_micro.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/src/main/res/anim/slide_out_micro.xml"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/debug/drawable-anydpi-v21/icon_payment_next_arrow.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/generated/res/pngs/debug/drawable-anydpi-v21/icon_payment_next_arrow.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/debug/drawable-anydpi-v21/icon_payment_alipay.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/generated/res/pngs/debug/drawable-anydpi-v21/icon_payment_alipay.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/debug/drawable-anydpi-v21/icon_payment_credit_card.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/generated/res/pngs/debug/drawable-anydpi-v21/icon_payment_credit_card.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/debug/drawable-anydpi-v21/icon_payment_mpu.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/generated/res/pngs/debug/drawable-anydpi-v21/icon_payment_mpu.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/debug/drawable-anydpi-v21/icon_payment_master_pass.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/generated/res/pngs/debug/drawable-anydpi-v21/icon_payment_master_pass.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/debug/drawable-anydpi-v21/icon_payment_123.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/generated/res/pngs/debug/drawable-anydpi-v21/icon_payment_123.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/debug/drawable-anydpi-v21/icon_payment_upop.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/generated/res/pngs/debug/drawable-anydpi-v21/icon_payment_upop.xml"
+    }
+]

@@ -1,0 +1,59 @@
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/activity_controller"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <AdapterViewFlipper
+            android:id="@+id/viewFlipper"
+            android:layout_width="match_parent"
+            android:layout_height="400dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentStart="true"
+            />
+
+        <android.support.v7.widget.RecyclerView
+            android:paddingTop="5dp"
+            android:id="@+id/mainRecyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/viewFlipper"
+
+            />
+
+
+
+
+
+    </LinearLayout>
+
+    </ScrollView>
+
+    <!-- Side navigation drawer UI -->
+    <ExpandableListView
+        android:id="@+id/navExpList"
+        android:layout_width="@dimen/nav_drawer_width"
+        android:layout_height="match_parent"
+        android:layout_gravity="left|start"
+        android:background="@color/white"
+        android:divider="@color/group_divider_color"
+        android:dividerHeight="@dimen/divider_height"
+        android:groupIndicator="@drawable/selector"
+        />
+
+
+</android.support.v4.widget.DrawerLayout>
+
+

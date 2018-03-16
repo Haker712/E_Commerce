@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/debug/drawable/my3dsdk_nav_bar.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/src/main/res/drawable/my3dsdk_nav_bar.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/debug/drawable/my2c2psdk_nav_btn.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/src/main/res/drawable/my2c2psdk_nav_btn.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/debug/drawable/btn_grey.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/src/main/res/drawable/btn_grey.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/debug/drawable/btn_dropdown.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/src/main/res/drawable/btn_dropdown.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/debug/drawable/selector_lv.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/src/main/res/drawable/selector_lv.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/debug/drawable/info_selector.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/src/main/res/drawable/info_selector.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/debug/drawable/border_bottom.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/src/main/res/drawable/border_bottom.xml"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/debug/drawable/edit_text.xml",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/src/main/res/drawable/edit_text.xml"
+    }
+]

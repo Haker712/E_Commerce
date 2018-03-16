@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+
+    >
+
+    <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/card_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        card_view:cardCornerRadius="3dp"
+        android:layout_margin="2dp"
+
+        >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            >
+
+            <ImageView
+                android:id="@+id/imgdiscountProduct"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@mipmap/ic_launcher"
+                android:scaleType="fitXY"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#6aeeeeee"
+                android:orientation="vertical"
+                android:layout_alignParentBottom="true">
+
+                <TextView
+                    android:id="@+id/txtDiscountProductName"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Bar Nyar"
+                    android:layout_below="@id/imgdiscountProduct"
+                    android:background="#93faf5f5"
+                    android:textColor="#000000"
+                    />
+
+                <TextView
+                    android:id="@+id/txtCostPrice"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Ta Ya Kar"
+                    android:layout_below="@+id/txtDiscountProductName"
+                    android:background="#93faf5f5"
+                    android:textColor="#000000"/>
+
+                <TextView
+                    android:id="@+id/txtDiscountPrice"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Ta Ya Kar"
+                    android:layout_below="@+id/txtCostPrice"
+                    android:background="#93faf5f5"
+                    android:textColor="#000000"/>
+
+
+
+            </LinearLayout>
+
+
+        </RelativeLayout>
+
+
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>

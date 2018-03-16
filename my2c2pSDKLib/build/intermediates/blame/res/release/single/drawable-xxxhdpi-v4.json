@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/release/drawable-xxxhdpi-v4/icon_payment_alipay.png",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/generated/res/pngs/release/drawable-xxxhdpi/icon_payment_alipay.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/release/drawable-xxxhdpi-v4/icon_payment_upop.png",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/generated/res/pngs/release/drawable-xxxhdpi/icon_payment_upop.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/release/drawable-xxxhdpi-v4/icon_payment_master_pass.png",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/generated/res/pngs/release/drawable-xxxhdpi/icon_payment_master_pass.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/release/drawable-xxxhdpi-v4/icon_payment_next_arrow.png",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/generated/res/pngs/release/drawable-xxxhdpi/icon_payment_next_arrow.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/release/drawable-xxxhdpi-v4/icon_payment_mpu.png",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/generated/res/pngs/release/drawable-xxxhdpi/icon_payment_mpu.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/release/drawable-xxxhdpi-v4/icon_payment_credit_card.png",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/generated/res/pngs/release/drawable-xxxhdpi/icon_payment_credit_card.png"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/release/drawable-xxxhdpi-v4/icon_payment_123.png",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/generated/res/pngs/release/drawable-xxxhdpi/icon_payment_123.png"
+    }
+]

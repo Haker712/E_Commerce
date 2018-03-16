@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/debug/raw/font_myanmar_thai_smartzg.ttf",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/src/main/res/raw/font_myanmar_thai_smartzg.ttf"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/debug/raw/my2c2p.dat",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/src/main/res/raw/my2c2p.dat"
+    },
+    {
+        "merged": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/build/intermediates/res/merged/debug/raw/font_myanmar_thai_samsung.ttf",
+        "source": "/Users/phonelin/Desktop/E_Commerce/my2c2pSDKLib/src/main/res/raw/font_myanmar_thai_samsung.ttf"
+    }
+]
